@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando no recente projeto: [Spark/PySpark - Atividades com Banco de Dados de Loja do Varejo (Produtos de Ciclismo)](https://github.com/brunoaugp/spark_loja_varejo)
 
-- 🌱 Realizando curso de: **Spark/PySpark**
+- 🌱 Realizando o treinamento: **Bootcamp Engenheiro(a) de Dados (XP Educação)**
 
 - 👨‍💻 Todos meus projetos estão em: [https://github.com/brunoaugp](https://github.com/brunoaugp)
 
