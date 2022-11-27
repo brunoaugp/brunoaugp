@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Bruno Augusto</h1>
 <h3 align="center">Estudante de Engenharia de Dados</h3>
 
-- 🔭 Trabalhando no recente projeto: [Projetos do Bootcamp Engenharia de Dados da XP Educação (IGTI)]([https://github.com/brunoaugp/bootcamp_eng_dados])
+- 🔭 Trabalhando no recente projeto: [Projetos do Bootcamp Engenharia de Dados da XP Educação (IGTI)](https://github.com/brunoaugp/bootcamp_eng_dados)
 
 - 🌱 Realizando o treinamento: **Bootcamp Engenheiro(a) de Dados (XP Educação)**
 
