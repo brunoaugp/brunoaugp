@@ -5,7 +5,7 @@
 
 - 🌱 Realizando o treinamento: **Bootcamp Engenheiro(a) de Dados (XP Educação)**
 
-- 👨‍💻 Todos meus projetos estão em: [https://github.com/brunoaugp](https://github.com/brunoaugp)
+- 👨‍💻 Todos meus projetos estão em: [Meus Projetos](https://github.com/brunoaugp?tab=repositories)
 
 - 📫 Email: **brunoaugp@hotmail.com**
 
